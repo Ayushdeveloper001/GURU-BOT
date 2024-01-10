@@ -576,7 +576,7 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ",
+                        title: "ᴛʜᴇ Hawks Bot",
                         body: "welcome to Group",
                         thumbnailUrl: welcomeApiUrl,
                         sourceUrl: 'https://wa.me/917440516159',
@@ -601,8 +601,8 @@ export async function participantsUpdate({
                   ppgp = await this.profilePictureUrl(id, 'image');
                 } catch (error) {
                   console.error(`Error retrieving profile picture: ${error}`);
-                  pp = 'https://i.imgur.com/8B4jwGq.jpeg'; // Assign default image URL
-                  ppgp = 'https://i.imgur.com/8B4jwGq.jpeg'; // Assign default image URL
+                  pp = 'https://raw.githubusercontent.com/Ayushdeveloper001/KawaiiMedia/main/95b119d40310f68a57927b564c8bbd46.jpg'; // Assign default image URL
+                  ppgp = 'https://raw.githubusercontent.com/Ayushdeveloper001/KawaiiMedia/main/95b119d40310f68a57927b564c8bbd46.jpg'; // Assign default image URL
                 } finally {
                   let text = (chat.sBye || this.bye || conn.bye || 'HELLO, @user')
                     .replace('@user', '@' + user.split('@')[0]);
