@@ -60,7 +60,7 @@ let infobt = `
 ▢ Instagram :
   • https://instagram.com/yonecess
 ▢ Telegram : 
-  • t.me/yonecess (GURU) 
+  • t.me/yonecess
 ▢ Whatsapp : 
   • https://wa.me/917440516519
 
