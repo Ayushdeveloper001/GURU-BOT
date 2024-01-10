@@ -37,14 +37,11 @@ break;
    ⎪⌲👑 _${usedPrefix}uptime_
    ⎪⌲👑 _${usedPrefix}bot_
    ⎪⌲👑 _${usedPrefix}owner_
-   ⎪⌲👑 _${usedPrefix}script_
    ⎪⌲👑 _${usedPrefix}runtime_
    ⎪⌲👑 _${usedPrefix}infobot_
-   ⎪⌲👑 _${usedPrefix}donate_
    ⎪⌲👑 _${usedPrefix}groups_
    ⎪⌲👑 _${usedPrefix}blocklist_
    ⎪⌲👑 _${usedPrefix}listprem_
-   ⎪⌲👑    Guru
    ┗━━━ʕ•㉨•ʔ━━━┛`; // Your bot menu message here
           break;
         case 'ownermenu':
@@ -216,7 +213,6 @@ break;
     ⎪⌲👑 _${usedPrefix}slot_
     ⎪⌲👑 _${usedPrefix}casino_
     ⎪⌲👑 _${usedPrefix}yourmom_
-    ⎪⌲👑 _${usedPrefix}teri mummy_
     ┗━━━ʕ•㉨•ʔ━━━┛`; // 
           break;
           case 'stickermenu':
