@@ -7,7 +7,7 @@ let handler = async (m, { conn, text }) => {
     }
   m.react('🎶')
   await displayLoadingScreen(conn, m.chat);
-  let pp = 'https://wallpapercave.com/wp/wp7932387.jpg'
+  let pp = 'https://raw.githubusercontent.com/Ayushdeveloper001/KawaiiMedia/main/95b119d40310f68a57927b564c8bbd46.jpg'
     const query = encodeURIComponent(text);
     let res = `https://guruapi.tech/api/spotifydl?url=${query}`
    // let spotify = await (await fetch(res)).buffer()
