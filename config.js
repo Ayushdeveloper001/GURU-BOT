@@ -8,10 +8,10 @@ import axios from 'axios'
 
 global.owner = [
   ['917440516519', 'Ayush (Useless Dead Af)', true], 
-  ['917999738108', 'Mehak (Waifu Mod)', true],
-  ['491794233675', 'Sandra (Good Mod)', true],
-  ['966597696010', 'Lei (Good Mod)', true],
-  ['918260496931', 'Suvam (Sexy Mod)', true],
+  ['917999738108', 'Devyansh (Mod)', true],
+  ['966597696010', 'Sandra (Mod)', true],
+  ['491794233675', 'Lei (Mod)', true],
+  ['918260496931', 'Suvam (Mod)', true],
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
