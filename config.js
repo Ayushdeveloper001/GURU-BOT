@@ -7,16 +7,14 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917440516519', 'Ayush (Useless Dead Af)', true], 
-  ['917999738108', 'Devyansh (Mod)', true],
-  ['966597696010', 'Sandra (Mod)', true],
-  ['491794233675', 'Lei (Mod)', true],
+  ['917440516519', 'Ayush (Dont dm)', true], 
   ['918260496931', 'Suvam (Mod)', true],
+  ['917999738108', 'Devyansh (Mod)', true],
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['917440516519', '918260496931', '966597696010', '491794233675', '917999738108']
+global.mods = ['917440516519', '918260496931', '917999738108']
 global.prems = ['917440516519']
 global.allowed = ['917440516519']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
