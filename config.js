@@ -8,8 +8,6 @@ import axios from 'axios'
 
 global.owner = [
   ['917440516519', 'Ayush (Dont dm)', true], 
-  ['918260496931', 'Suvam (Mod)', true],
-  ['917999738108', 'Devyansh (Mod)', true],
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
@@ -53,7 +51,7 @@ global.APIKeys = { // APIKey Here
 global.botname = 'Hawks'
 global.premium = 'true'
 global.packname = 'HAWKS┃+919617854315' 
-global.author = 'Hawks Bot +919617854315' 
+global.author = 'Is the Owner of this Sticker' 
 global.menuvid = 'https://i.imgur.com/m483z2M.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/yonecess\n' 
 global.dygp = 'https://www.instagram.com/yonecess'
