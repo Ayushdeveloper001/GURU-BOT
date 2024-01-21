@@ -23,7 +23,7 @@ let handler = async (m, { conn }) => {
     🔗 𝑹𝑬𝑨𝑫 𝑴𝑶𝑹𝑬: ${newsItem.url}
     •───── ୨❀୧ ─────•`;
 
-    let thumbnail = 'https://raw.githubusercontent.com/Ayushdeveloper001/KawaiiMedia/main/95b119d40310f68a57927b564c8bbd46.jpg'; 
+    let thumbnail = 'https://i.imgur.com/wkjQSR4.jpg'; 
 
     conn.sendFile(m.chat, thumbnail, 'thumbnail.jpg', newsInfo, m);
 
