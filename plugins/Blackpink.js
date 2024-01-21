@@ -14,7 +14,7 @@ let handler = async (m, { conn }) => {
 
     if (!img) throw img
 
-    await conn.sendFile(m.chat, img, '', 'made by Hawks', m, 0, { thumbnail: await (await fetch(img)).buffer() })
+    await conn.sendFile(m.chat, img, '', 'made by Nanno', m, 0, { thumbnail: await (await fetch(img)).buffer() })
 
 }
 
