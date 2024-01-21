@@ -49,7 +49,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Hawks'
+global.botname = 'Nanno'
 global.premium = 'true'
 global.packname = 'NANNO ┃+919617854315' 
 global.author = 'Is the Owner of this Sticker' 
