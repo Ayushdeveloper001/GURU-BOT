@@ -5,7 +5,7 @@ let handler = m => m
 handler.all = async function (m) {
 	
 	let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? this.user.jid : m.sender
-	let pp = await this.profilePictureUrl(who, 'image').catch(_ => 'https://raw.githubusercontent.com/Ayushdeveloper001/KawaiiMedia/main/dc080fd21b57b382a1b0de17dac1dfe6.jpg')
+	let pp = await this.profilePictureUrl(who, 'image').catch(_ => 'https://i.imgur.com/wkjQSR4.jpg')
 	
 	//reply link wa
    global.rpl = { contextInfo: { externalAdReply: { mediaUrl: dygp, mediaType: 'VIDEO', description: 'support group', title: packname, body: 'support group', thumbnailUrl: pp, sourceUrl: dygp }}} 
