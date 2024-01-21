@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917440516519', 'Ayush (Dont dm)', true], 
+  ['917440516519', 'dead Body (Dont dm)', true], 
   ['966597696010', 'Sande CodeName:Nano', true], 
 ] //Number of owners
 
@@ -51,15 +51,15 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'Hawks'
 global.premium = 'true'
-global.packname = 'HAWKS┃+919617854315' 
+global.packname = 'NANNO ┃+919617854315' 
 global.author = 'Is the Owner of this Sticker' 
-global.menuvid = 'https://i.imgur.com/m483z2M.mp4'
+global.menuvid = 'https://i.imgur.com/UDegW8m.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/yonecess\n' 
 global.dygp = 'https://www.instagram.com/yonecess'
 global.fgsc = 'https://www.instagram.com/yonecess' 
 global.fgyt = 'https://www.instagram.com/yonecess'
 global.fgpyp = 'https://www.instagram.com/yonecess'
-global.fglog = 'https://raw.githubusercontent.com/Ayushdeveloper001/KawaiiMedia/main/95b119d40310f68a57927b564c8bbd46.jpg' 
+global.fglog = 'https://i.imgur.com/wkjQSR4.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
