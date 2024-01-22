@@ -7,7 +7,6 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917440516519', 'dead Body (Dont dm)', true], 
   ['966597696010', 'Sande CodeName:Nano', true], 
 ] //Number of owners
 
