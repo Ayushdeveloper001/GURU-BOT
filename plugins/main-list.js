@@ -161,7 +161,7 @@ lkr = "*Get ready for the ride, here are your ticket options:*\n\n" +
     ⎪⌲👑 _${usedPrefix}waifu_
     ⎪⌲👑 _${usedPrefix}neko_
     ⎪⌲👑 _${usedPrefix}loli_
-    ⎪⌲👑 _${usedPrefix}couplepp_
+    ⎪⌲👑 _${usedPrefix}couple_
     ⎪⌲👑 _${usedPrefix}toanime_
     ⎪⌲👑 _${usedPrefix}naruto_
     ⎪⌲👑 _${usedPrefix}itachi_
