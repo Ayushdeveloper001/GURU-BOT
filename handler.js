@@ -578,7 +578,7 @@ export async function participantsUpdate({
                         title: "ᴛʜᴇ Hawks Bot",
                         body: "welcome to Group",
                         thumbnailUrl: welcomeApiUrl,
-                        sourceUrl: 'https://wa.me/917440516159',
+                        sourceUrl: 'https://wa.me/919617854315',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
@@ -628,10 +628,10 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ",
+                        title: "Nanno Bot",
                         body: "Goodbye from  Group",
                         thumbnailUrl: leaveApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA',
+                        sourceUrl: 'https://wa.me/919617854315',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
